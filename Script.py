@@ -107,7 +107,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
     
 <b>• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴍᴀɢɴᴜs ᴛɢ</b>
 <b>• Uꜱᴇʀ ɴᴀᴍᴇ : @MagnusTG</b>
-<b>• Usᴇʀ ɪᴅ : 2087006948</b>
+<b>• Usᴇʀ ɪᴅ : 1564068795</b>
     
 <b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>"""
     ABOOK_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
